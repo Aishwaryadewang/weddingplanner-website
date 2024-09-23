@@ -1,0 +1,169 @@
+
+
+body{
+    position: relative;
+    min-height: 100%;
+    padding-bottom: 55%;
+    background-image: url(AWBimage.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 10%;
+
+}
+.label{
+    margin-top: 20%;
+    margin-left: 13%;
+    color: rgb(75, 193, 240);
+    width: 130px;
+    height: 40px;
+    font-size: 30px;
+    background: transparent;
+    outline: 0;
+    border: 0;
+}
+#title{
+    font-size: 70px;
+    text-align: center;
+    
+}
+.searchbar{
+    margin-left: 15%;
+    width: max-content;
+    width: 850px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 14px; 
+    border-radius: 28px;
+    background: #78a8db;
+    color: black;
+    
+}
+.search-input{
+    font-size: 30px;
+    margin-left: 14px;
+    outline: none;
+    border: none;
+    background: transparent;
+    flex: 1;
+    
+}
+.search-icon{
+    font-size: 30px;
+    outline: none;
+    border: none;
+    background: transparent;   
+}
+.blankspace{
+    width: 70%;
+    height: 400px;
+    margin-left: 15%;
+    background-image: url(blankspace.jpeg);
+    background-size: cover;
+}
+.category{
+    font-size: 40px;
+    margin-left: 15%;
+
+}
+.belowcategory{
+    font-size: 30px;
+    width: 86%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+#butt1{
+    color: rgb(9, 233, 73);
+    text-decoration: none;
+}
+.butt1{
+    margin-left: 17%;
+    width: 200px;
+    height: 80px;
+    background-color: gray;
+    text-align: center;
+    background-image: url(hall.jpeg);
+    background-size: cover;
+}
+.butt2{
+    width: 200px;
+    height: 80px;
+    background-color: grey;
+    text-align: center;
+    background-image: url(caterers.jpeg);
+    background-size: cover;
+}
+.butt3{
+    width: 200px;
+    height: 80px;
+    background-color: grey;
+    text-align: center;
+    background-image: url(dj.jpeg);
+    background-size: cover;
+}
+.butt4{
+    width: 200px;
+    height: 80px;
+    background-color: grey;
+    text-align: center;
+    background-image: url(decorators.jpeg);
+    background-size: cover;
+}
+#lastdiv{
+    font-size: 35px;
+    margin-left: 15%;
+}
+#hall1{
+    color: rgb(225, 37, 37);
+    text-decoration: none;
+}
+.first-Hall{
+    width: 70%;
+    font-size: 50px;
+    background-color:rgb(165, 165, 165);
+    display: flex;
+    align-items: normal;
+    margin-left: 15%;
+    height: 400px;
+    background-image: url(sakhre\ mangal\ karyalaya.jpeg); 
+    background-size: cover;
+}
+.second-Hall{
+    width: 70%;
+    font-size: 50px;
+    background-color:rgb(165, 165, 165);
+    display: flex;
+    align-items:normal;
+    margin-left: 15%;
+    height: 400px;
+    background-image: url(ganesha\ marriage\ hall.jpeg);
+    background-size: cover;
+}
+footer{
+    margin-left: 5%;
+    width: 80%;
+    height: 80px;
+    padding: 25px;
+    text-align: left;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 19%;
+    display: flex;
+    justify-content: space-around;
+}
+#fbutt1{
+    color: rgb(22, 23, 24);
+    text-decoration: none;
+}
+.fbutt1{
+    font-size: 65px;
+}
+.fbutt2{
+    font-size: 65px;
+}
+.fbutt3{
+    font-size: 65px;
+}
+ 
